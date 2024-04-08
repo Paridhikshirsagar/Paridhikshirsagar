@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Paridhikshirsagar
-- 👀 I’m interested in app development 
 - 🌱 I’m currently learning c/c++
 - 📫 How to reach me - paridhispace@gmail.com
 - 😄 Pronouns: she/her
